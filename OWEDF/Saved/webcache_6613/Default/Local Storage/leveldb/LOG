@@ -1,3 +1,2 @@
-2026/04/18-15:19:37.010 3a90 Reusing MANIFEST C:\OWEDF\OWEDF\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/18-15:19:37.015 3a90 Recovering log #3
-2026/04/18-15:19:37.017 3a90 Reusing old log C:\OWEDF\OWEDF\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/20-17:53:24.377 5ac0 Creating DB C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/04/20-17:53:24.388 5ac0 Reusing MANIFEST C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
