@@ -1,0 +1,26 @@
+[5576:22984:0423/012251.361:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5576:27444:0423/012251.386:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5576:22984:0423/012251.393:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5576:22600:0423/012253.564:WARNING:leveldb_database.cc(141)] Unable to open C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5576:22600:0423/012253.565:WARNING:leveldb_database.cc(141)] Unable to open C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5576:22600:0423/012253.567:WARNING:leveldb_database.cc(141)] Unable to open C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5576:27360:0423/012253.568:WARNING:leveldb_database.cc(141)] Unable to open C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5576:27360:0423/012253.848:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5576:27360:0423/012253.849:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28076:22620:0423/012254.778:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2A5061126BA4891507C58EA1F64DA86B will be ignored
+[5576:22984:0423/024340.145:ERROR:device_event_log_impl.cc(196)] [02:43:39.918] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[23436:26512:0423/030728.503:ERROR:entry_impl.cc(1029)] No file for 80000013
+[23436:26512:0423/030728.503:ERROR:entry_impl.cc(1029)] No file for 80000015
+[23436:26512:0423/030728.503:ERROR:entry_impl.cc(1029)] No file for 80000016
+[23436:26512:0423/030728.506:ERROR:entry_impl.cc(1029)] No file for 80000014
+[23436:26512:0423/030728.506:ERROR:entry_impl.cc(1029)] No file for 80000017
+[23436:26512:0423/030728.506:ERROR:entry_impl.cc(1029)] No file for 80000018
+[23436:26512:0423/030736.624:ERROR:entry_impl.cc(1029)] No file for 8000001c
+[23436:26512:0423/030736.624:ERROR:entry_impl.cc(1029)] No file for 8000001a
+[23436:26512:0423/030736.625:ERROR:entry_impl.cc(1029)] No file for 80000021
+[23436:26512:0423/030736.625:ERROR:entry_impl.cc(1029)] No file for 80000020
+[23436:26512:0423/030736.625:ERROR:entry_impl.cc(1029)] No file for 8000001d
+[23436:26512:0423/030736.626:ERROR:entry_impl.cc(1029)] No file for 8000001b
+[23436:26512:0423/030736.626:ERROR:entry_impl.cc(1029)] No file for 8000001e
+[23436:26512:0423/030736.627:ERROR:entry_impl.cc(1029)] No file for 8000001f
+[5576:22984:0423/033846.496:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
