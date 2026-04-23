@@ -1,3 +1,6 @@
-2026/04/23-05:51:06.276 5374 Reusing MANIFEST C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/04/23-05:51:06.280 5374 Recovering log #6
-2026/04/23-05:51:06.280 5374 Reusing old log C:\OWEDF\OWEDF\OWEDF\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
+2026/04/23-13:50:50.491 6dc Log #6: 11 ops saved to Table #7 OK
+2026/04/23-13:50:50.499 6dc Archiving C:\23a31a0022\OWEDF\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/04/23-13:50:50.499 6dc Table #4: 3 entries OK
+2026/04/23-13:50:50.499 6dc Table #7: 11 entries OK
+2026/04/23-13:50:50.503 6dc Archiving C:\23a31a0022\OWEDF\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/04/23-13:50:50.509 6dc **** Repaired leveldb C:\23a31a0022\OWEDF\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 516 bytes. Some data may have been lost. ****
